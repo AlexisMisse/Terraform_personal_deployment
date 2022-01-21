@@ -1,0 +1,2 @@
+# Terraform_personal_deployment
+Terraform_code_that_allow_you_to_create_an_instances_and_alls_those_services_.
